@@ -1,0 +1,10 @@
+C:\Users\kevmm\source\repos\Factoral_Loop01\Factoral_Loop01\bin\Debug\Factoral_Loop01.exe.config
+C:\Users\kevmm\source\repos\Factoral_Loop01\Factoral_Loop01\bin\Debug\Factoral_Loop01.exe
+C:\Users\kevmm\source\repos\Factoral_Loop01\Factoral_Loop01\bin\Debug\Factoral_Loop01.pdb
+C:\Users\kevmm\source\repos\Factoral_Loop01\Factoral_Loop01\obj\Debug\Factoral_Loop01.csproj.AssemblyReference.cache
+C:\Users\kevmm\source\repos\Factoral_Loop01\Factoral_Loop01\obj\Debug\Factoral_Loop01.Form1.resources
+C:\Users\kevmm\source\repos\Factoral_Loop01\Factoral_Loop01\obj\Debug\Factoral_Loop01.Properties.Resources.resources
+C:\Users\kevmm\source\repos\Factoral_Loop01\Factoral_Loop01\obj\Debug\Factoral_Loop01.csproj.GenerateResource.cache
+C:\Users\kevmm\source\repos\Factoral_Loop01\Factoral_Loop01\obj\Debug\Factoral_Loop01.csproj.CoreCompileInputs.cache
+C:\Users\kevmm\source\repos\Factoral_Loop01\Factoral_Loop01\obj\Debug\Factoral_Loop01.exe
+C:\Users\kevmm\source\repos\Factoral_Loop01\Factoral_Loop01\obj\Debug\Factoral_Loop01.pdb
